@@ -44,11 +44,12 @@ Agriculture, FoodTech & Rural Development
 ![alt text](<Screenshot 2025-09-29 205337.png>)
 
 ## Technical Approach
-1.Frontend: React Native (for Android/iOS), Flutter.
-2.Backend: Python (FastAPI), Node.js.
-3.AI Models: TensorFlow, PyTorch (for pest detection, advisory engine).
-4.Database: PostgreSQL, Firebase.
-5.APIs: OpenWeatherMap, Agmarknet, Government Soil Health APIs.
+1.Frontend: React Native (Android/iOS)
+2.Backend: Node.js + Express
+3.Database: PostgreSQL (for structured data) or Firebase (for real-time sync)
+4.AI Models: TensorFlow (image recognition), PyTorch (recommendation engine)
+5.APIs: OpenWeatherMap (weather), Agmarknet (market prices), Soil Health Card API (soil data)
+
 
 ## Feasibility and Viability
 FEASIBILITY
