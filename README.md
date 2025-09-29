@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/09/2025
+## Register Number:25011340
+## Name:Krithik kiran.S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,39 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+![alt text](<Screenshot 2025-09-29 205337.png>)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+1.Frontend: React Native (for Android/iOS), Flutter
+2.Backend: Python (FastAPI), Node.js
+3.AI Models: TensorFlow, PyTorch (for pest detection, advisory engine)
+4.Database: PostgreSQL, Firebase
+5.APIs: OpenWeatherMap, Agmarknet, Government Soil Health APIs
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+FEASIBILITY
+
+1.Mobile-first design is practical due to increasing smartphone penetration in rural India.
+2.AI models for pest detection, weather prediction, and crop advisory are mature and can be trained using open datasets.
+
+VIABILITY
+
+Risk:
+1.Incomplete or outdated soil, weather, and crop data can mislead recommendations.
+2.Farmer data can be unsecure
+3.Traditional models may fail under extreme or shifting climate conditions.
+
+Overcome:
+1.Allow farmers to manually update their crop history and soil info.
+2.Use data anonymization and secure cloud storage.
+3.Integrate AI-based climate resilience models.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1.Increase crop yield by 20–30%
+2.Reduce input costs by 15–25%
+3.Improve soil and environmental health
+4.Empower farmers with scientific decision-making
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://journalspub.com/wp-content/uploads/2025/04/8-14-Smart-Agro-Advisory-Systems-AI-Based-Platforms-for-Real-Time-Farmer-Decision-Support.pdf
+
